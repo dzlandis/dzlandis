@@ -1,5 +1,6 @@
 ### Hello there 👋
 I'm just a person figuring out how to do different things to create some brilliant other things.
+
 Currently learning:
 * <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> NodeJS (mainly Discord.js)
 * <img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> Python
