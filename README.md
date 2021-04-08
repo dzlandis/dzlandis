@@ -19,7 +19,7 @@ Reload my page a bunch of times to move this number up:
 **dzlandis/dzlandis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzlandis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on some random project in a Replit probably.
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on ...
