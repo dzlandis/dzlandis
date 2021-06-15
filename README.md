@@ -12,6 +12,7 @@ I'm just a person figuring out how to do different things to create some brillia
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzlandis&show_icons=true&theme=dark)
 
 "I'll probably start using github more in the future, eh, we'll see." - Myself a while back.
+
 I can safely say I use it a bunch now.
 
 Reload my page a bunch of times to move this number up:
