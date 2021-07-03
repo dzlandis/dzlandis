@@ -1,6 +1,10 @@
 # Hello there 👋
 I'm just a person figuring out how to do different things to create some brilliant other things.
 
+<a href="https://bio.dzlandis.com">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/259708781166985217.png" />
+</a>
+
 ### Take a look at these crappy stats: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzlandis&show_icons=true&theme=dark)
