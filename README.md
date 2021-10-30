@@ -5,13 +5,13 @@ I'm just a person figuring out how to do different things to create some brillia
 <img height="80px" src="https://discord.c99.nl/widget/theme-4/259708781166985217.png" />
 </a>
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+
 ### Take a look at these crappy stats: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzlandis&show_icons=true&theme=dark)
 
-"I'll probably start using github more in the future, eh, we'll see." - Myself a while back.
-
-I can safely say I use it a bunch now.
+Most of my projects are private, I may open them to the public in the future ♥
 
 Reload my page a bunch of times to move this number up:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dzlandis.visitor-badge.issue.1)
