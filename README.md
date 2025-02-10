@@ -7,7 +7,7 @@ I'm just a person figuring out how to do different things to create some excitin
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzlandis&show_icons=true&theme=dark)
+![Dzlandis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzlandis&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&hide_border=true)
 
 Most of my projects are private, I may open them to the public in the future ♥
 
